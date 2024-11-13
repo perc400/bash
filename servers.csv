@@ -1,0 +1,6 @@
+port:user:ip:password
+22:root:192.168.140.141:pass123
+22:root:192.168.140.142:securePass
+22:root:192.168.140.143:rootPass
+22:root:192.168.140.144:dbAccess
+22:root:192.168.140.145:defaultPass
